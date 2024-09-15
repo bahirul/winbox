@@ -6,5 +6,6 @@ Winbox v2.x (legacy) is a GUI application to manage and configure Mikrotik Route
 >
 > Winbox v2.x is a legacy application and is no longer supported by Mikrotik. It is recommended to use the latest version of Winbox (v3.x) to manage and configure Mikrotik devices.
 
-# Latest Version
-You can download the latest version from the official [Mikrotik](https://mikrotik.com/download) website.
+# Newer Version
+
+You can download the newer version from the official [Mikrotik](https://mikrotik.com/download) website.
